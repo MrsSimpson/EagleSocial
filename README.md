@@ -5,10 +5,11 @@ This is a school project for the Universty of Southern Mississippi. It is going 
 <HTML>
   
   ## Screenshots
-  <img src="/Images/FinalImages/LoadScreen.png" width="200" />
-  <img src="/initial.png" width="200" /> <img src="/login.png" width="200" /> 
-  <img src="/signup.png" width="200" /> <img src="/news_feed.png" width="200" />
-  <img src="/show_alert.png" width="200" /> <img src="/show_likes.png" width="200" />
-  <img src="/friend_list.png" width="200" alight="center" />
+  <img src="/Images/FinalImages/LoadScreen.png" width="200" /> <img src="/Images/FinalImages/Login.png" width="200" />
+  <img src="/Images/FinalImages/NewsFeed.png" width="200" /> <img src="/Images/FinalImages/ProfilePage.png" width="200" />
+  <img src="/Images/FinalImages/MessageList.png" width="200" /> <img src="/Images/FinalImages/Message.png" width="200" />
+  <img src="Images/show_alert.png" width="200" /> <img src="Images/show_likes.png" width="200" />
+  <img src="/Images/FinalImages/FriendsList.png" width="200" /> <img src="/Images/FinalImages/SettingsMenu.png" width="200" />
+  <img src="/Images/FinalImages/SettingsPassword.png" width="200" />
   
 </HTML>
