@@ -5,6 +5,7 @@ This is a school project for the Universty of Southern Mississippi. It is going 
 <HTML>
   
   ## Screenshots
+  <img src="/Images/FinalImages/LoadScreen.png" width="200" />
   <img src="/initial.png" width="200" /> <img src="/login.png" width="200" /> 
   <img src="/signup.png" width="200" /> <img src="/news_feed.png" width="200" />
   <img src="/show_alert.png" width="200" /> <img src="/show_likes.png" width="200" />
